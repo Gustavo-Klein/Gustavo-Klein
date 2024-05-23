@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Gustavo 👋
 
 
-- 🔭 Atualmente trabalho com analise de dados utilizando as ferramentas SQL SERVER e EXCEL
+- 🔭 Atualmente trabalho com Análise de Dados utilizando as ferramentas SQL SERVER e EXCEL
 - 🌱 Estou aprendendo Ciência e Engenharia de dados.
 - 📫 Contate-me no email: gustavoklein13@outlook.com
 
