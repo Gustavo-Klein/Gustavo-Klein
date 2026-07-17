@@ -1,22 +1,27 @@
-# Hi there, I'm Gustavo Klein 👋
+# Hi, I'm Gustavo Klein 👋
 
-Data Analyst passionate about turning data into business decisions through analytics, automation, and visualization.
+Data Analyst passionate about transforming data into business insights through SQL, Python and Power BI.
 
-- 💼 Data Analyst working with Credit & Collections Analytics
-- 📊 Building dashboards with Power BI and writing SQL for business insights
-- ☁️ Learning Analytics Engineering, Azure, Databricks and dbt
-- 🌍 Open to international remote opportunities
-- 📫 Reach me: **gustavoklein13@outlook.com**
+- 💼 Data Analyst at Nutrien Ag Solutions
+- 📊 Building dashboards, KPIs and reports for Credit & Collections
+- 🐍 Developing automation and data analysis solutions with Python
+- 🗄️ Working with SQL Server for data extraction and analysis
+- 🎯 Microsoft Certified: PL-300 Power BI Data Analyst Associate
+- 🌱 Currently improving my skills in Data Analytics and Data Engineering
+- 📫 Contact: gustavoklein13@outlook.com
 
 ## 🛠️ Tech Stack
 
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-EA4335?style=for-the-badge&logo=databricks&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="left">
+  <img align="center" alt="Python" height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"/>
+  <img align="center" alt="SQL Server" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
+  <img align="center" alt="Power BI" height="40" src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg"/>
+  <img align="center" alt="Excel" height="40" src="https://img.icons8.com/color/48/microsoft-excel-2019--v1.png"/>
+</p>
+
+## 📜 Certifications
+
+- Microsoft PL-300 – Power BI Data Analyst Associate
 
 <div align="center">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Klein&show_icons=true&theme=github_dark&hide_border=true"/>
