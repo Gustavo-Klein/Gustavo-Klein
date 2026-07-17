@@ -16,7 +16,7 @@ Data Analyst passionate about transforming data into business insights using SQL
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="45" alt="Power BI"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="45" alt="SQL"/>
   <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/>
 </p>
