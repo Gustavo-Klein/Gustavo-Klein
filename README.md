@@ -1,15 +1,11 @@
 # Hi, I'm Gustavo Klein 👋
 
-Data Analyst focused on turning data into actionable business insights using SQL, Python and Power BI.
+Data Analyst passionate about transforming data into business insights using SQL, Python and Power BI.
 
 - 💼 Data Analyst at Nutrien Ag Solutions
-- 📊 Building dashboards, reports and KPIs for Credit & Collections
-- 🐍 Developing automation and data analysis solutions with Python
-- 🗄️ Querying and analyzing data using SQL Server
 - 🎯 Microsoft Certified: PL-300 Power BI Data Analyst Associate
-- 📚 Continuously improving my skills in Data Analytics and Business Intelligence
 - 🌎 Fluent in English
-- 📫 Contact: **gustavoklein13@outlook.com**
+- 📫 **gustavoklein13@outlook.com**
 
 ---
 
@@ -28,19 +24,9 @@ Data Analyst focused on turning data into actionable business insights using SQL
 
 ---
 
-## 📜 Certifications
+## 📜 Certification
 
 - ✅ Microsoft PL-300 – Power BI Data Analyst Associate
-
-
-## 🚀 Featured Projects
-
-Coming soon...
-
-- 📊 Power BI Dashboards
-- 🐍 Python Data Analysis
-- 🗄️ SQL Projects
-- 📈 Business Intelligence
 
 ---
 
