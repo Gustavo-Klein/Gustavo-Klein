@@ -15,16 +15,9 @@ Data Analyst passionate about transforming data into business insights using SQL
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <!-- Power BI -->
   <img src="https://raw.githubusercontent.com/microsoft/PowerBI-Icons/main/SVG/Power-BI.svg" height="45" alt="Power BI"/>
-
-  <!-- SQL Server -->
-  <img src="https://cdn.simpleicons.org/microsoftsqlserver/CC2927" height="45" alt="SQL Server"/>
-
-  <!-- Python -->
+  <img src="https://skillicons.dev/icons?i=mysql" height="45" alt="SQL"/>
   <img src="https://skillicons.dev/icons?i=python" height="45" alt="Python"/>
-
-  <!-- Git -->
   <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git"/>
 </p>
 
