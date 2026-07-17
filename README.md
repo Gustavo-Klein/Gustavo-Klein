@@ -30,5 +30,5 @@ Data Analyst passionate about transforming data into business insights using SQL
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Gustavo-Klein/gustavokleindata/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/gustavokleindata/gustavokleindata/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 </p>
